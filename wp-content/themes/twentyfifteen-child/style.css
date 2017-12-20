@@ -1,0 +1,21 @@
+/*
+	Theme Name: Twenty Fifteen Child Theme
+	Description: My first child theme - COMP2081
+	Author: Scott McCrindle
+	Template: twentyfifteen
+	Version: 1.0.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Faster+One');
+
+body {
+	background-color: papayawhip;
+}
+.site-title {
+	font-family: "Faster One", fantasy;
+}
+.entry-title, .entry-title a {
+	font-family: "Alfa Slab One", fantasy;
+	color: peru;
+	font-size: 4.8rem;
+}
